@@ -12,6 +12,7 @@ const Home = () => {
   const purchase = () => {
     setCounter(counter - 50);
   };
+
   return (
     <div>
       <h1>Welcome To The Clicking Game</h1>
